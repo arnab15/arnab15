@@ -34,6 +34,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 <div align="center>
+ <a href="https://github.com/arnab15">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=arnab15&show_icons=true&theme=dark&line_height=27" alt="Arnab's github stats"/>
+</a>
 <a href="https://github.com/arnab15">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab15&theme=dark&hide_langs_below=1" />
 </a>
