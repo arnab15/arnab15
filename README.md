@@ -18,9 +18,9 @@
 
 
 - 🔭 I’m currently a B.Tech CSE 2nd year student 
-- 🌱 I’m currently learning React and NodeJs.
+- 🌱 I’m currently learning React , NodeJs,Mongodb.
 - 👯 I’m looking to collaborate on Some Projects
-- 🤔 I’m looking for help with learning new Technology
+- 🤔 I’m looking for help with learning new stuff.
 - 💬 Ask me about  tech related stuff.
 - 📫 How to reach me: [Twitter ](https://twitter.com/arnabsahoo9) , [LinkedIn ](https://www.linkedin.com/in/arnab-sahoo-0b3427187)
 - 😄 Pronouns: He/Him
