@@ -24,14 +24,14 @@
 - 💬 Ask me about  tech related stuff.
 - 📫 How to reach me: [Twitter ](https://twitter.com/arnabsahoo9) , [LinkedIn ](https://www.linkedin.com/in/arnab-sahoo-0b3427187)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I spend almost 8-10 hours Devlopment everyday.
+- ⚡ Fun fact: As i love to buid Something so spend my most of the  ⌚ in front of my laptop.
 
 
 **Languages and Tools:**  
 
 
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<div><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></div>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
